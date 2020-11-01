@@ -10,9 +10,9 @@ Programming and code reading has become an important skill as the world digitali
 
 In this Challenge:
   - [Introduction](#introduction)
-  - Week 1.1 - Build your first application
-  - Week 1.2 - Enable Delivery Pipeline
-  - Week 1.3 - Modify your application
+  - [Week 1.1 - Build your first application](https://github.com/Sukriva/mimmitkoodaa-cloud-rock-star/tree/main/Week%201.1%20-%20Build%20your%20first%20application)
+  - [Week 1.2 - Enable Delivery Pipeline](https://github.com/Sukriva/mimmitkoodaa-cloud-rock-star/tree/main/Week%201.2%20-%20Enable%20Delivery%20Pipeline)
+  - [Week 1.3 - Modify your application](https://github.com/Sukriva/mimmitkoodaa-cloud-rock-star/tree/main/Week%201.3%20-%20Modify%20your%20application)
   - Week 2.1 - Add Helsinki Outdoor route API
   - Week 2.2 - Add Weather API
   - Week 3.1 - Print data to your application
@@ -71,4 +71,4 @@ This challenge uses [Explore Helsinki nature](https://citynature.eu/en/helsinki/
 ## Summary
 
 Time to get started with the first week! Remember, Have Fun!
-Go to [Week 1.1 - Build your first application]().
+Go to [Week 1.1 - Build your first application](https://github.com/Sukriva/mimmitkoodaa-cloud-rock-star/tree/main/Week%201.1%20-%20Build%20your%20first%20application).
