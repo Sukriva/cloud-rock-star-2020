@@ -2,7 +2,7 @@
 
 ## Challenge guide Autum 2020
 
-## Welcome to the first Mimmitcode virtual workshop organized by IBM!
+## Welcome to the first Mimmitcode virtual challange organized by IBM!
 
 We are really excited that we have been offered the opportunity to lead this challenge. While the global situation does not currently allow for face-to-face workshops, we at IBM do not want this to become an obstacle. We still want to introduce this tremendous field with thousands of opportunities and trends. This time we offer an opportunity to take a peek into the world of Web Application.
 
