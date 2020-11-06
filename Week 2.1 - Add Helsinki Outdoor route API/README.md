@@ -155,7 +155,7 @@ JSON data contains object and list of object. Word JSON comes from **J**ava**S**
 
 <img src="/images/chrome-json-data-points.png" width="100%" height="100%">
 
-If you have error or you can't see the print in console. Your ``index.html`` should now look something like this. See: [index.html](https://github.com/Sukriva/mimmitkoodaa-cloud-rock-star/blob/master/images/example_codes/new_index.html) 
+:bulb: If you have error or you can't see the print in console. Your ``index.html`` should now look something like this. See: [index.html](https://github.com/Sukriva/mimmitkoodaa-cloud-rock-star/blob/master/images/example_codes/new_index.html) 
 
 ## Summary
 
