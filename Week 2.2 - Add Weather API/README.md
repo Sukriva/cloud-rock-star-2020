@@ -118,6 +118,8 @@ fetch("https://api.openweathermap.org/data/2.5/forecast?q=Helsinki&units=metric&
 </script>
 ```
 
+If you have error or you can't see the print in console. Your ``index.html`` should now look something like this. See: [index.html](https://github.com/Sukriva/mimmitkoodaa-cloud-rock-star/blob/main/images/example_codes/weather.html)
+
 ## Summary
 
 Great! You are now done with Week 2!
