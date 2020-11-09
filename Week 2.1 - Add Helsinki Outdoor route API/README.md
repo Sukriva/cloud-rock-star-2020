@@ -98,7 +98,7 @@ In the code:
 
 **Read More:** [Using Fetch](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch)
 
-After you have updated ``<script>`` part remember to ``Commit`` and ``Push`` the changes to Git or you can't see the changes in your application.
+After you have updated ``<script>`` part remember to ``Commit`` and ``Push`` the changes to **Git** or you can't see the changes in your application. [See week 1.3. part 10](https://github.com/Sukriva/mimmitkoodaa-cloud-rock-star/tree/main/Week%201.3%20-%20Modify%20your%20application)
 
 5. Open your application and find your browser JS console
 - Safari: Develop -> Show JavaScript console
