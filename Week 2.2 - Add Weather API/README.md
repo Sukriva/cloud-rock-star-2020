@@ -124,6 +124,6 @@ fetch("https://api.openweathermap.org/data/2.5/forecast?q=Helsinki&units=metric&
 
 Great! You are now done with Week 2!
 
-You have now got data to your Application from an API.
+You have now got data to your Application from an API. At this point you should have 3 different fetch part. One for outdoor data and two for weather (current weather and forecast).
 
 You can now move on to learning how to add stuff to your actual webpage in Week 3.1. - Print data to your application (Coming soon)

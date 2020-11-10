@@ -161,7 +161,7 @@ JSON data contains object and list of object. Word JSON comes from **J**ava**S**
 
 Fantastic! Week 2.1 is complete! :smile:
 
-At this point you have added data to your first Node.js application on IBM Cloud using Cloud Foundry public environment.
+At this point you have added data to your first Node.js application on IBM Cloud using Cloud Foundry public environment. **Do not delete Fetch you just made because we do not save data!** The good thing in Fetch API is that your data is always be updated and you don't have to thinkg updating your data. :blush:
 
 Now that you have outrood routes data it's time to fecth weather data. Go to [
 Week 2.2 - Add Weather API](https://github.com/Sukriva/mimmitkoodaa-cloud-rock-star/tree/master/Week%202.2%20-%20Add%20Weather%20API). 
