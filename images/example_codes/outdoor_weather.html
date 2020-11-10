@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html>
+
+  <head>
+    <title>NodeJS Starter Application</title>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="stylesheets/style.css">
+  </head>
+
+  <body>
+    <table>
+      <tr>
+        <td style= "width:30%;">
+          <img class = "newappIcon" src="images/newapp-icon.png">
+        </td>
+        <td>
+          <h1 id="message">Hello Everyone in the world!</h1>
+          <p class='description'></p> Thanks for creating a <span class = "blue">NodeJS Starter Application</span>.
+        </td>
+      </tr>
+    </table>
+    <!-- add script tags for Javascript -->
+    <script>
+    //Helsinki outdoor areas
+        fetch("https://citynature.eu/api/wp/v2/places?cityid=5") // part 1 
+        .then((response) => { //part 2
+            return response.json(); //part 3
+        })
+		    .then((natureJson) => { // 4
+		        console.log(natureJson); // 5
+                var title = natureJson[0].title; //a
+                console.log("Title: " + title); //b
+                var coordinates = natureJson[0].routes.features[0].geometry.coordinates[0]; //c
+                console.log("Coordinates: " + coordinates);
+            });
+        
+        //Current weather
+        fetch("https://api.openweathermap.org/data/2.5/weather?q=Helsinki,fi&units=metric&&APPID=YOURAPIKEY")
+        .then((response) => { 
+            return response.json(); 
+        })
+		.then((weatherJson) => { 
+			console.log(weatherJson); 
+                	var cityName = weatherJson.name; 
+                	var weatherDescription = weatherJson.weather[0].description;
+                	var temperature = weatherJson.main.temp;
+                	var icon = weatherJson.weather[0].icon;
+               		console.log("Name of the city: " + cityName);
+                	console.log("Weather description: " + weatherDescription);
+                	console.log("Temperature: " + temperature + "°C");
+                	console.log("Icon for weather: " + icon);
+            	});
+        //Forecast
+        fetch("https://api.openweathermap.org/data/2.5/forecast?q=Helsinki&units=metric&&appid=YOURAPIKEY")
+        .then((response) => { 
+            return response.json(); 
+        })
+        .then((weatherJson) => {
+            console.log(weatherJson);
+            var count = 0;
+            for(var i = 0; i < weatherJson.list.length; i++) { //Loop for going through the results for the forecast
+                var time = weatherJson.list[i].dt_txt;	//eg. "2020-10-09 15:00:00"
+                var hour = time.slice(11, 16);		//Separating the hour from time
+                var date = time.slice(0, 10);		//Separating the date from time
+                if(hour === "12:00"){			//If the hour is 12, data is stored to variables and then printed to console
+                    var description= weatherJson.list[i].weather[0].description;
+                    var temperature= weatherJson.list[i].main.temp + "°C";
+                    console.log(date + " " + hour + " " + description + " " + temperature);
+                    count++;
+                    if(count === 2){ 	//Once you have printed to console twice, you can stop the loop with break-statement. You can change the number depending on how many results you want. Five, however is the maximum amount of result you can get, since the API provides forecast for only five days
+                        break;
+                    }
+            }
+        }
+    });
+    </script>
+  </body>
+
+</html>
