@@ -15,8 +15,8 @@ In this Challenge:
   - [Week 1.3 - Modify your application](https://github.com/Sukriva/mimmitkoodaa-cloud-rock-star/tree/main/Week%201.3%20-%20Modify%20your%20application)
   - [Week 2.1 - Add Helsinki Outdoor route API](https://github.com/Sukriva/mimmitkoodaa-cloud-rock-star/tree/main/Week%202.1%20-%20Add%20Helsinki%20Outdoor%20route%20API)
   - [Week 2.2 - Add Weather API](https://github.com/Sukriva/mimmitkoodaa-cloud-rock-star/tree/main/Week%202.2%20-%20Add%20Weather%20API)
-  - Week 3.1 - Print data to your application
-  - Week 3.2 - Set application layout
+  - [Week 3.1 - Print data to your application]()
+  - [Week 3.2 - Set application layout]()
   - Week 4.1 - Add functionality to your application
   - Week 4.2 - Modify your application style
   - [Summary](#summary)
