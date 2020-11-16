@@ -81,7 +81,7 @@ We want to print every item from a list called list_item = ["a", "b", "c"]. Stri
 </script>
 ```
 
-:bulb: Your code should looks like this at this point [See example index.html](https://github.com/jenni-hautojarvi/cloud-rock-star/blob/master/images/example_codes/for_loop.html)
+:bulb: Your code should looks like this at this point [See example index.html](https://github.com/Sukriva/mimmitkoodaa-cloud-rock-star/blob/main/images/example_codes/for_loop.html)
 
 7. Remember to ``Commit``and ``Push`` to **Git** :smile:
 
@@ -141,7 +141,7 @@ weatherArray += "<div>Date: " + ? + "<br>Hour: " + ? + "<br>Description: " + ? +
 
 <img src="/images/weather.png" width="20%" height="20%">
 
-:bulb: Your code should look like [this](https://github.com/jenni-hautojarvi/cloud-rock-star/blob/master/images/example_codes/weather.html)
+:bulb: Your code should look like [this](https://github.com/Sukriva/mimmitkoodaa-cloud-rock-star/blob/main/images/example_codes/weather.html)
 
 ## Outdoor places list
 
@@ -219,7 +219,7 @@ Now let's print map to your application. We are going to use Leaflet.
 
 <img src="/images/map_list.png" width="100%" height="100%">
 
-:bulb: Your code should looks like [this](https://github.com/jenni-hautojarvi/cloud-rock-star/blob/master/images/example_codes/map.html)
+:bulb: Your code should looks like [this](https://github.com/Sukriva/mimmitkoodaa-cloud-rock-star/blob/main/images/example_codes/map.html)
 
 ## Summary
 
