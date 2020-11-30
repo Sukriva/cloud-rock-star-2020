@@ -242,4 +242,6 @@ Results for this code:
 
 We have now cover basic for HTML page elements and you are ready to try design your application layout. Good job! :sunglasses:
 
-Next week we will cover styles and add functionality to your application :smile:
+Next week we will cover styles and add functionality to your application :smile: 
+
+Go to [Week 4.1 - Modify your application style](https://github.com/Sukriva/mimmitkoodaa-cloud-rock-star/tree/main/Week%204.1%20-%20Modify%20your%20application%20style)
