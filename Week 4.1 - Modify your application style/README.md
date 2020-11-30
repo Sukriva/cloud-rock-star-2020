@@ -445,4 +445,4 @@ Now you have buttons in your applications! Nice work! :smile:
 
  Great! You are done with week 4.1. You now know more about CSS and how to use bootstrap to style your application. 
 
-You can move on to week 4.2 to add functionality to you application buttons and finish your application.
+You can move on to [week 4.2 to add functionality to you application](https://github.com/Sukriva/mimmitkoodaa-cloud-rock-star/tree/main/Week%204.2%20-%20Add%20functionality%20to%20your%20application) buttons and finish your application.
