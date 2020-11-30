@@ -438,7 +438,7 @@ Now you have buttons in your applications! Nice work! :smile:
 <img src="../images/application_buttons.png" alt="css" width="80%">
 
 
-:bulb: Your HTML code should looks like [this](https://github.com/jenni-hautojarvi/cloud-rock-star/blob/master/images/example_codes/application_with_buttons.html)
+:bulb: Your HTML code should looks like [this](https://github.com/Sukriva/mimmitkoodaa-cloud-rock-star/blob/main/images/example_codes/application_with_buttons.html)
 
 
 ## Summary
