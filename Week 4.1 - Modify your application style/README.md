@@ -223,7 +223,7 @@ If you are interested in these go to [getbootstrap.com](https://getbootstrap.com
 
 You may now have made your own application layout and thats okay. But here is a example how to start :blush:
 
-So at this point your html code should look like [this.](https://github.com/jenni-hautojarvi/cloud-rock-star/blob/master/images/example_codes/map.html)
+So at this point your html code should look like [this.](https://github.com/Sukriva/mimmitkoodaa-cloud-rock-star/blob/main/images/example_codes/map.html)
 
 
 1. Add in header part needed bootstrap files
