@@ -17,8 +17,8 @@ In this Challenge:
   - [Week 2.2 - Add Weather API](https://github.com/Sukriva/mimmitkoodaa-cloud-rock-star/tree/main/Week%202.2%20-%20Add%20Weather%20API)
   - [Week 3.1 - Print data to your application](https://github.com/Sukriva/mimmitkoodaa-cloud-rock-star/tree/main/Week%203.1%20-%20Print%20data%20to%20your%20application)
   - [Week 3.2 - Set application layout](https://github.com/Sukriva/mimmitkoodaa-cloud-rock-star/tree/main/Week%203.2%20-%20Set%20application%20layout)
-  - Week 4.1 - Add functionality to your application()
-  - Week 4.2 - Modify your application style()
+  - Week 4.1 - Modify your application style()
+  - Week 4.2 - Add functionality to your application()
   - [Summary](#summary)
 
 
