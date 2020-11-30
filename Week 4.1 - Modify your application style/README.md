@@ -400,7 +400,7 @@ body{
 
 <img src="../images/application_css.png" alt="css" width="80%"> 
 
-:bulb: Your HTML code should look like [this](https://github.com/jenni-hautojarvi/cloud-rock-star/blob/master/images/example_codes/index_css.html)
+:bulb: Your HTML code should look like [this](https://github.com/Sukriva/mimmitkoodaa-cloud-rock-star/blob/main/images/example_codes/index_css.html)
 
 7. Add buttons
 
