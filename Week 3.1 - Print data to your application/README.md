@@ -137,6 +137,18 @@ weatherArray += "<div>Date: " + ? + "<br>Hour: " + ? + "<br>Description: " + ? +
 </script>
 ```
 
+- Next we need to add code that prints the data to your application, like we did in current weather. Add it before last **}** mark.
+
+```Javascript
+
+}
+    var futWeather = document.getElementById("futureWeather"); //ADD THIS
+    futWeather.innerHTML = weatherArray; //ADD THIS
+
+});
+
+```
+
 **Congratulations, you have now printed weather data to your application page** :+1:
 
 <img src="/images/weather.png" width="20%" height="20%">
